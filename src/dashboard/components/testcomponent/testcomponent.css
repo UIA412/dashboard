@@ -1,0 +1,14 @@
+.testCompoenent{
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.05);
+    color: #333;
+    display: block;
+    font-size: 14px;
+    line-height: 1.42857;
+    margin-bottom: 20px;
+    padding: 15px;
+    position: relative;
+    width: 100%;
+}
